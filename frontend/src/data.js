@@ -10,7 +10,7 @@ const data = {
             rating: 4.5,
             numReviews: 10,
             stockCount:10,
-            description: "High quality product HSDGAVFJAKJFG YUUAYSGDKANKDUI ZK UAHSFAKSH UAHSIODJAL HUI AHSODFL  UHAOSJDON HASOID OSADPO",
+            description: "High quality product Steve was born in Tokyo, Japan in 1950. He moved to London with his parents when he was 5 years old. Steve started school there and his father began work at the hospital. His mother was a house wife and he had four brothers.",
         },
         {
             _id:"2",
@@ -22,7 +22,7 @@ const data = {
             rating: 3.5,
             numReviews: 8,
             stockCount:0,
-            description: "Medium-High quality product e bwerbhwebrwebnwfDS DGWNRWETHWE WENWF G ",
+            description: "Medium-High quality product He lived in England for 2 years then moved to Amman, Jordan where he lived there for 10 years. Steve then moved to Cyprus to study at the Mediterranean University.",
         },
         {
             _id:"3",
@@ -34,7 +34,7 @@ const data = {
             rating: 5,
             numReviews: 15,
             stockCount:11,
-            description: "High sdg sd€sdsgsd €sdgbwe€ fquality sd€sdg €g €sdgn aerdtgerg product",
+            description: "High dg product Many people think that the brain shuts down when we go to sleep but it is the opposite. Experts say that the brain is very active when we are asleep and could be even more active than when we are awake.",
         },
         {
             _id:"4",
@@ -46,7 +46,7 @@ const data = {
             rating: 4,
             numReviews: 11,
             stockCount:5,
-            description: "High quality product sdgsdf sda sdfdgsdgsg sdgsfgs€sff sgefhyetgag ergs€sgdh ",
+            description: "High quality product Experts recommended at least 6 hours of sleep for adults and 9 hours of sleep for young children. They say that sleep is an essential not a comfort and it can increase your life expectancy.  ",
         },
         {
             _id:"5",
@@ -58,7 +58,7 @@ const data = {
             rating: 4.5,
             numReviews: 13,
             stockCount:0,
-            description: "High sdfgsdf sdf asfgearvgsfy5tyearg nquality product",
+            description: "High A second common modern English style is to use no indenting, but add vertical white space to create.On a typewriter, a double carriage return produces a blank line for this purpose; professional typesetters (or word processing software) may put in an arbitrary vertical space by adjusting leading.",
         },
         {
             _id:"6",
@@ -70,7 +70,7 @@ const data = {
             rating: 3,
             numReviews: 17,
             stockCount:14,
-            description: "High quality product po€sfiogjspdf sdpogvjilsdkf'adf sdf",
+            description: "High quality product Paragraphs are commonly numbered using the decimal system, where (in books) the integral part of the decimal represents the number of the chapter and the fractional parts are arranged in each chapter in order of magnitude. ",
         },
     ],
 };
